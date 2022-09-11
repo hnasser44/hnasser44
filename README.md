@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hassan Nasser
 =====================================================================================================================================
 
-I'm a CS major undergraduate with skills in a wide variety of web technologies, both client-side and server-side. I've been learning to code for almost 3 years now and looking for a career in Full Stack Development.
+I'm a CS major undergraduate with skills in a wide variety of web technologies, both client-side and server-side. I've been learning to code for almost 1 years now and looking for a career in Full Stack Development.
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [hassan.nasser.2@st.ul.edu.lb](mailto:hassan.nasser.2@st.ul.edu.lb)
