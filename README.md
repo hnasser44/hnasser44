@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a CS major undergraduate with skills in a wide variety of web technologies, both client-side and server-side. I've been learning to code for almost 1 year now and looking for a career in Full Stack Development.
 
 * 🌍  I'm based in Lebanon
-* ✉️  You can contact me at [hassan.nasser.3@st.ul.edu.lb](mailto:hassan.nasser.3@st.ul.edu.lb)
+* ✉️  You can contact me at [hassan_nasser_22@outlook.com](mailto:hassan_nasser_22@outlook.com)
 * 🧠  I'm learning React at the moment
 * 🤝  I'm open to collaborating on full stack projects
 
